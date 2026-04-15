@@ -103,7 +103,7 @@ This project was created to:
 
 ## 🚀 Future Improvements
 
-* Add more data structures (Queue, Tree, etc.)
+* Add more data structures (HashTable, Tree, etc.)
 * Create a unified data structures library
 * Improve test coverage and performance analysis
 
